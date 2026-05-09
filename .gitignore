@@ -10,8 +10,6 @@ credentials.json
 token.json
 service-account*.json
 *-credentials.json
-.env
-.env.local
 
 # GSC output files
 /tmp/
@@ -20,7 +18,6 @@ service-account*.json
 .DS_Store
 
 # Editor
-.vscode/
 .idea/
 *.swp
 
@@ -39,3 +36,5 @@ service-account*.json
 
 # Logs
 log/
+config.bat
+node_modules
